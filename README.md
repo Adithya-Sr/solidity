@@ -3,9 +3,11 @@
 ## Zku.sol
 is the code 
 
-## time.png
+## time.jpg
 is the screenshot of the first deployment with time(in raw format)
-## revert.png
+
+## revert.jpg
 is the reverted call from the sender
-##a pproved.png
+
+## approved.jpg
 is the screenshot of the approved call from the sender(deployed in a testnet)
