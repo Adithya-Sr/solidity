@@ -1,11 +1,11 @@
 # ZKU Background Assignment
 
-##Zku.sol
+## Zku.sol
 is the code 
 
-##time.png
+## time.png
 is the screenshot of the first deployment with time(in raw format)
-##revert.png
+## revert.png
 is the reverted call from the sender
-##approved.png
+##a pproved.png
 is the screenshot of the approved call from the sender(deployed in a testnet)
